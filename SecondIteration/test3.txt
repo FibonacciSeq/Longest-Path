@@ -1,0 +1,3 @@
+Elements of longest simple path:
+6 14 18 15 25 5 2 17 10 3 0 11 12 21 28 7 27 23 26 24 8 19 29 
+Longest simple path length: 23

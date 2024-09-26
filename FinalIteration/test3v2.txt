@@ -1,0 +1,5 @@
+Elements of longest simple path:
+0 3 4 8 1 6 5 2 7 
+Longest simple path length: 9
+Number of iterations: 10
+Elapsed time: 3.9539635181427s
